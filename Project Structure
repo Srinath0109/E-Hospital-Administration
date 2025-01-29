@@ -1,0 +1,8 @@
+E-Hospital/
+│── app.py                # Main Flask application
+│── routes.py             # API endpoints
+│── models.py             # Data models (patients, doctors, appointments)
+│── database.py           # Database setup (SQLite)
+│── utils.py              # Utility functions (validation, helper methods)
+│── requirements.txt      # Dependencies
+│── README.md             # Documentation
